@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "12",
+      "firstName": "Samantha Cantú Anaya",
+      "age": 23,
+      "companyId": "1"
+    },
+    {
+      "id": "14",
+      "firstName": "Paulina García Owens",
+      "age": 24,
+      "companyId": "2"
+    },
+    {
+      "firstName": "Ricardo Adolfo Solís Zugarazo",
+      "age": 24,
+      "id": "_jyw2k3"
+    },
+    {
+      "firstName": "Jimena Navarro",
+      "age": 22,
+      "id": "LMt09SG"
+    },
+    {
+      "firstName": "Jimena Navarro",
+      "age": 22,
+      "id": "5Ug2kNe"
+    },
+    {
+      "firstName": "Jimena Navarro",
+      "age": 22,
+      "id": "ouuehkW"
+    },
+    {
+      "firstName": "Jimena Navarro",
+      "age": 22,
+      "id": "G2joolD"
+    },
+    {
+      "firstName": "Jimena Navarro",
+      "age": 22,
+      "id": "RfrP_oM"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "iPhone"
+    },
+    {
+      "id": "2",
+      "name": "Samsumg",
+      "description": "Galaxy"
+    }
+  ]
+}
